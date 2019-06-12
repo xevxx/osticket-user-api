@@ -1,7 +1,9 @@
 # API extension for osticket - tested against 1.12 (tested json only)
+## Create and register client users or update client users programatically
 
+
+## What to do
 Add user.api.php to include folder
-
 
 Amend http.php to api folder adding two lines:
 ```
