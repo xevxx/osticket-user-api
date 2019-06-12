@@ -1,6 +1,8 @@
 # API extension for osticket - tested against 1.12 (tested json only)
 
 Add user.api.php to include folder
+
+
 Amend http.php to api folder adding two lines:
 ```
  url_post("^/users\.(?P<format>xml|json|email)$", array('api.users.php:UsersApiController','create')),
