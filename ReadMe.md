@@ -3,6 +3,7 @@
 
 ```
 http://osticketurl/api/users.json //create and register user endpoint
+post JSON object in format:
 {
   "name": "user name",
   "email": "email address",
@@ -11,7 +12,7 @@ http://osticketurl/api/users.json //create and register user endpoint
 
 
 http://osticketurl/api/userscp.json //update user passwrord endpoint
--post JSON object in format:
+post JSON object in format:
 {
 	"email": "user email address",
 	"passwd1": "new password"
