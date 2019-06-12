@@ -11,6 +11,8 @@ API endpoint is secured using standard osticket API process
 
 https://docs.osticket.com/en/latest/Developer%20Documentation/API%20Docs.html
 
+requires request header: "X-API-Key", "API KEY FROM OSTICKET"
+
 ## What to do
 Add user.api.php to include folder
 
