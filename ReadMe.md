@@ -7,6 +7,10 @@ Initial code and idea taken from user on osticket forum: NotionCommotion
 
 https://forum.osticket.com/d/93191-do-users-need-to-be-registered-if-they-use-the-api-to-add-tickets
 
+API endpoint is secured using standard osticket API process
+
+https://docs.osticket.com/en/latest/Developer%20Documentation/API%20Docs.html
+
 ## What to do
 Add user.api.php to include folder
 
