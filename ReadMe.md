@@ -3,7 +3,7 @@
 
 osticket: https://github.com/osTicket
 
-Most code taken from user on osticket forum: NotionCommotion
+Initial code and idea taken from user on osticket forum: NotionCommotion
 
 https://forum.osticket.com/d/93191-do-users-need-to-be-registered-if-they-use-the-api-to-add-tickets
 
