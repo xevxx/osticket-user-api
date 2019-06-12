@@ -8,6 +8,8 @@ http://osticketurl/api/users.json //create and register user endpoint
   "email": "email address",
   "passwd1": "password"
 }
+
+
 http://osticketurl/api/userscp.json //update user passwrord endpoint
 -post JSON object in format:
 {
