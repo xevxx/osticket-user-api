@@ -3,6 +3,7 @@
 
 osticket: https://github.com/osTicket
 
+Most code taken from user on osticket comments/ issues (Cannot refind link)
 
 ## What to do
 Add user.api.php to include folder
