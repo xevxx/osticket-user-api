@@ -32,7 +32,7 @@ post JSON object in format:
 }
 ```
 
-### http://osticketurl/api/userscp.json //update user passwrord endpoint
+### http://osticketurl/api/userscp.json //update user password endpoint
 post JSON object in format:
 ```
 {
